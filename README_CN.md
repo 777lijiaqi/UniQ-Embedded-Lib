@@ -1,5 +1,7 @@
 # 🚀 UniQ (Universal Qi) Embedded Library
 
+[English Version](./README.md) | 中文版
+
 <p align="center">
   <b>让单片机开发不再“随波逐流”，打造真正的跨平台驱动之魂！</b>
 </p>
