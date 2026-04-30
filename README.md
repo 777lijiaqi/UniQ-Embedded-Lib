@@ -55,20 +55,7 @@ Using advanced **Dependency Injection** and **Interface-Oriented Programming**, 
 Here is how you implement cross-platform delay using UniQ's universal interface:
 
 ```c
-// 1. Define an adapter function in your project
-void MyDelayMs(void* handle, uint16_t ms) {
-    HAL_Delay(ms); // STM32 implementation
-}
 
-// 2. Initialize the UniQ module
-JQ_Delay_t my_delay;
-JQ_Delay_Interface_t intf = {
-    .delay_ms = MyDelayMs
-};
-
-// 3. Inject and use
-JQ_Delay_Init(&my_delay, &intf, NULL);
-JQ_Delay_DoSomething(&my_delay); // Reusable logic across all platforms!
 ```
 
 ---
