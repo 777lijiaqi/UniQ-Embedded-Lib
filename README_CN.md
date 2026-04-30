@@ -93,7 +93,7 @@
 
 | 支付宝 (Alipay) | 微信支付 (WeChat) |
 | :---: | :---: |
-| <img src="./assets/alipay_qr.png" width="180" /> | <img src="./assets/wechat_qr.png" width="180" /> |
+| <img src="https://github.com/user-attachments/assets/84234d38-add2-427c-90fc-819b0b20dab5" width="180" /> | <img src="https://github.com/user-attachments/assets/4f3731c5-5fc5-498a-8c65-cb546e1c01d7" width="180" /> |
 
 > **赞助备注：** UniQ 商用授权 + 你的联系方式/邮箱。
 
