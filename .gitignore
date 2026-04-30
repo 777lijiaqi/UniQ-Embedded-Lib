@@ -53,3 +53,53 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# ========== Keil MDK 产生的垃圾文件 ==========
+*.obj
+*.lst
+*.m51
+*.pbi
+*.lnp
+*.htm
+*.sct
+*.dep
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+*.uvoptx
+*.bak
+*.crf
+*.d
+*.axf
+*.build_log.htm
+*.iex
+*.i
+Objects/
+Listings/
+DebugConfig/
+
+# ========== STM32CubeIDE / GCC 产生的垃圾文件 ==========
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.elf
+*.list
+*.map
+
+# ========== 编译输出的可执行文件 ==========
+*.hex
+*.bin
+*.lib
+*.a
+
+# ========== 操作系统产生的垃圾文件 ==========
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========== 忽略本地个人设置 ==========
+.vscode/
+.settings/
+*.launch
