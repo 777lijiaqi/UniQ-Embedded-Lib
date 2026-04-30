@@ -5,9 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="license">
-  <img src="https://img.shields.io/github/v/release/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="release">
-  <img src="https://img.shields.io/github/stars/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="stars">
+  <!-- 许可协议图标：点击跳转到 LICENSE 文件 -->
+  <a href="https://github.com/777lijiaqi/UniQ-Embedded-Lib/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="license">
+  </a>
+
+  <!-- 版本号图标：点击跳转到 Releases 发布页面 -->
+  <a href="https://github.com/777lijiaqi/UniQ-Embedded-Lib/releases">
+    <img src="https://img.shields.io/github/v/release/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="release">
+  </a>
+
+  <!-- Star 图标：点击查看谁给你点了赞 -->
+  <a href="https://github.com/777lijiaqi/UniQ-Embedded-Lib/stargazers">
+    <img src="https://img.shields.io/github/stars/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="stars">
+  </a>
 </p>
 
 ---
@@ -59,6 +70,7 @@
 
 ```c
 
+```
 ---
 
 ## ⚖️ 许可证 (License)
