@@ -22,8 +22,8 @@
  */
 
 /* Header Guard --------------------------------------------------------------*/
-#ifndef __UNIQ_XXX_H
-#define __UNIQ_XXX_H
+#ifndef __UNIQ_DELAY_H
+#define __UNIQ_DELAY_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -31,31 +31,30 @@ extern "C" {
 
 /* Includes ------------------------------------------------------------------*/
 #include <stdint.h>
-#include <stddef.h>
 
-/** @addtogroup UNIQ_XXX_MODULE
+/** @addtogroup UNIQ_DELAY_MODULE
  * @{
  */
 
 /* Exported Types ------------------------------------------------------------*/
-/** @defgroup UNIQ_XXX_Exported_Types
+/** @defgroup UNIQ_DELAY_Exported_Types
  * @{
  */
 typedef struct {
     void *hw_handle;    /* 硬件接口句柄 */
     /* 添加更多成员... */
-} Uniq_XXX_Handle_t;
+} Uniq_DELAY_Handle_t;
 /**
  * @}
  */
 
 /* Exported Functions Prototypes ---------------------------------------------*/
-/** @defgroup UNIQ_XXX_Exported_Functions
+/** @defgroup UNIQ_DELAY_Exported_Functions
  * @{
  */
 
 /**
- * @brief       [函数名]: Uniq_XXX_Init
+ * @brief       [函数名]: uniq_XXX_Init
  * @description: 初始化模块
  * @param       handle: [Uniq_XXX_Handle_t*] 模块句柄
  * @retval      [int8_t] 0:成功, -1:失败
