@@ -1,3 +1,39 @@
+# UniQ Embedded Library - Special License Notice
+# UniQ 嵌入式库 - 特别许可说明
+
+Copyright (c) 2026 Li Jiaqi (李家琦). All rights reserved.
+
+1. Open Source Use: This library is licensed under the GNU General Public License v3 (GPL v3). You are free to use it for personal, educational, or open-source projects, provided that you comply with the GPL v3 terms (i.e., your project must also be open-source).
+
+2. Commercial Use & Waiver: If you wish to use this library in a closed-source/commercial product and do not want to open-source your own code, the author (Li Jiaqi) offers a "Commercial Waiver". 
+   * A one-time sponsorship of $5 USD or more is suggested to obtain this waiver. 
+   * Once sponsored, you are granted the legal right to use this version of UniQ in your commercial products without the GPL v3 open-source obligations.
+
+3. NO WARRANTY: THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THIS SOFTWARE.
+
+4. Contact & Sponsorship:
+
+   * Email: [2001lijiaqi@gmail.com]
+
+   * Sponsorship Link: [View in README](https://github.com/777lijiaqi/UniQ-Embedded-Lib#sponsorship)
+
+1. 开源使用：本库采用 GPL v3 协议授权。您可以免费将其用于个人、教学或开源项目，前提是您必须遵守 GPL v3 条款（即：您的项目也必须开源）。
+
+2. 商用与豁免：如果您希望在闭源/商业产品中使用本库，且不想公开您自己的源代码，作者（李家琦）提供“商业豁免授权”。
+   * 建议通过一次性赞助 5 美元或更多来获得此豁免。
+   * 赞助后，您即获得在商业产品中使用当前版本 UniQ 的权利，而无需履行 GPL v3 规定的强制开源义务。
+
+3. 免责声明：本软件按“原样”提供，不提供任何形式的担保。在任何情况下，作者（李家琦）均不对因使用本软件产生的任何索赔、损害或其它责任（包括但不限于硬件损毁、数据丢失、利润损失）承担责任。
+
+4. 联系 & 赞助：
+   * 邮箱 ： [2001lijiaqi@gmail.com]
+
+   * 赞助链接 ： [查看二维码](https://github.com/777lijiaqi/UniQ-Embedded-Lib#sponsorship)
+
+-------------------------------------------------------------------------------
+The following is the standard GPL v3.0 license text: (以下为标准的 GPL v3.0 协议正文：)
+-------------------------------------------------------------------------------
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
