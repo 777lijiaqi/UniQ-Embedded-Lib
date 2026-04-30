@@ -18,6 +18,8 @@
 </p>
 
 ---
+<div style="page-break-after: always;"></div>
+
 #### **1. Introduction**
 *   **1.1 Background**: Why UniQ? (Breaking the vendor lock-in).
 *   **1.2 Core Values**: Reusability, Portability, and Professional Coding Standards.
