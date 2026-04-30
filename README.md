@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <!-- 许可协议图标：点击跳转到 LICENSE 文件 -->
+  <!-- 1. License 静态图标-->
   <a href="https://github.com/777lijiaqi/UniQ-Embedded-Lib/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="license">
+    <img src="https://img.shields.io/badge/license-GPLv3%20%2B%20Commercial-blue?style=flat-square" alt="license">
   </a>
 
   <!-- 版本号图标：点击跳转到 Releases 发布页面 -->
