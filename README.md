@@ -1,16 +1,21 @@
 # 🚀 UniQ (Universal Qi) Embedded Library
 
 <p align="center">
-  <b>Tired of vendor-locked code? Give your embedded soul the freedom it deserves!</b>
+  <b>让单片机开发不再“随波逐流”，打造真正的跨平台驱动之魂！</b>
 </p>
 
 <p align="center">
+  <!-- 1. License 静态图标-->
   <a href="https://github.com/777lijiaqi/UniQ-Embedded-Lib/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-GPLv3%20%2B%20Commercial-blue?style=flat-square" alt="license">
   </a>
+
+  <!-- 版本号图标：点击跳转到 Releases 发布页面 -->
   <a href="https://github.com/777lijiaqi/UniQ-Embedded-Lib/releases">
-    <img src="https://img.shields.io/badge/release-v1.0.0--beta-green?style=flat-square" alt="release">
+    <img src="https://img.shields.io/github/v/release/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="release">
   </a>
+
+  <!-- Star 图标：点击查看谁给你点了赞 -->
   <a href="https://github.com/777lijiaqi/UniQ-Embedded-Lib/stargazers">
     <img src="https://img.shields.io/github/stars/777lijiaqi/UniQ-Embedded-Lib?style=flat-square" alt="stars">
   </a>
