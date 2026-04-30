@@ -86,7 +86,7 @@
 
 ---
 
-<a name="sponsorship"></a>
+<a name="sponsorship-cn"></a>
 ## ☕ 赞助与支持 (Sponsorship)
 
 如果您觉得 UniQ 让您感到便捷、兴奋，欢迎通过以下方式支持家琦的持续开发！您的名字将有机会出现在贡献者名单中。
