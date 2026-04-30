@@ -1,1 +1,4 @@
-custom: ["https://github.com/777lijiaqi/UniQ-Embedded-Lib/README_CN.md/#sponsorship-cn", "https://github.com/777lijiaqi/UniQ-Embedded-Lib/README.md/#sponsorship"]
+custom: [
+  "https://github.com/777lijiaqi/UniQ-Embedded-Lib/blob/main/README_CN.md#sponsorship-cn", 
+  "https://github.com/777lijiaqi/UniQ-Embedded-Lib#sponsorship"
+]
