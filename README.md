@@ -25,7 +25,7 @@
 
 ## 😫 Are you suffering from "Vendor Lock-in"?
 
-Imagine this: You've spent weeks writing drivers for STM32. Suddenly, your boss says: "Jiaqi, the chip price just doubled. Switch to GD32 (or some obscure MCU) by tomorrow!"
+Imagine this: You've spent weeks writing drivers for STM32. Suddenly, your boss says: "xx, the chip price just doubled. Switch to GD32 (or some obscure MCU) by tomorrow!"
 
 You look at your screen full of `HAL_GPIO_WritePin` and `__HAL_TIM_SET_COUNTER`, and you feel the pain:
 *   **Deep Coupling:** Business logic is tangled with vendor HALs like spaghetti.
