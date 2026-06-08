@@ -21,10 +21,10 @@ typedef logState_t (*log_receive)(void* hardware , const uint8_t* pData , uint16
 
 typedef struct{
     void* hardware;
-    void* log_hardware_init(void);
+    void (*log_hardware_init)(void);
     log_transmit transmitFunc;
     log_receive receiveFunc;
-    void* log_hardware_deinit(void);
+    void (*log_hardware_deinit)(void);
 }logFunc_t;
 
 typedef struct{
