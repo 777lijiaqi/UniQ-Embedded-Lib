@@ -8,6 +8,7 @@
 #define LOG_TX_BUFF_SIZE    256
 #define LOG_RX_BUFF_SIZE    256
 #define LOG_TIME_OUT        0xFFFF
+
 typedef enum{
     LOG_OK,
     LOG_TIMEOUT,
