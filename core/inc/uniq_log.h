@@ -8,7 +8,6 @@
 #define LOG_TX_BUFF_SIZE    256
 #define LOG_RX_BUFF_SIZE    256
 #define LOG_TIME_OUT        0xFFFF
-
 typedef enum{
     LOG_OK,
     LOG_TIMEOUT,
@@ -26,5 +25,9 @@ typedef struct{
     log_receive receiveFunc;
     void* log_hardware_deinit(void);
 }logFunc_t;
+
+uint16_t log_calculate_CRC16(uint8_t* data , uint16_t length);
+logState_t log_printf_com(logFunc_t* dev , const char* format , ...);
+logState_t log_receive_com(logFunc_t* dev , const uint8_t* pData , uint16_t size , uint32_t timOut);
 
 #endif
